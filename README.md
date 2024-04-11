@@ -1,6 +1,8 @@
 # 🗒️ FlashPrizm iOS App
 
-**Created with Michelle Kwan \(@mllk17\), Cade Edney \(@cedney97\), and Howard Wu \(HowardWHW\)**
+![FlashPrizm Logo](logo.png)
+
+**Created with Michelle Kwan \(@mllk17\), Cade Edney \(@cedney97\), and Howard Wu \(@HowardWHW\)**
 
 iOS Mutli-Dimensional Index Card app created for Mobile App Dev II Class
 
@@ -30,6 +32,26 @@ Although existing flash card apps are great, we feel that students tend to put t
 - I contributed to the creation of the Create and Edit PrizmSet page, View PrizmSet page, Search PrizmSet page, and Share PrizmSet page.
 
 ## Screenshots
+![Home Screen](homescreen.png)
+> Home Screen
+
+![Create/Edit PrizmSet Page](createeditprizmset.png)
+> Create/Edit PrizmSet Page
+
+![View PrizmSet Page](viewprizmset.png)
+> View PrizmSet Page
+
+![Share PrizmSet Page](shareprizmset.png)
+> Share PrizmSet Page
+
+![Search PrizmSet Page](searchprizmset.png)
+> Search PrizmSet Page
+
+![Friendz Page](friendzscreen.png)
+> Friendz Page
+
+![Profile Screen](profilescreen.png)
+> Profile Screen
 
 ## To Improve for V2 
 - [ ] Brand new UI
