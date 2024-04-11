@@ -2,7 +2,7 @@
 
 ![FlashPrizm Logo](logo.png)
 
-**Created with Michelle Kwan \(@mllk17\), Cade Edney \(@cedney97\), and Howard Wu \(@HowardWHW\)**
+**Created with Michelle Kwan \(@mllk17\), Cade Edney \(@cedney97\) and Howard Wu \(@HowardWHW\)**
 
 iOS Mutli-Dimensional Index Card app created for Mobile App Dev II Class
 
