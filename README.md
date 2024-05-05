@@ -1,6 +1,6 @@
 # 🗒️ FlashPrizm iOS App
 
-![FlashPrizm Logo](logo.png)
+![FlashPrizm Logo](logonew.png)
 
 **Created with Michelle Kwan \(@mllk17\), Cade Edney \(@cedney97\) and Howard Wu \(@HowardWHW\)**
 
